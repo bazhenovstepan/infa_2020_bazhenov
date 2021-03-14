@@ -1,13 +1,14 @@
 import time
 import urllib
 from io import BytesIO
+import config
 import telebot
 from telebot import types
 
 url1 = 'https://upload.wikimedia.org/wikipedia/en/d/d4/Mickey_Mouse.png'
 url2 = 'https://i.pinimg.com/originals/a3/77/ef/a377ef6213c835bf878fbe1d7a4342ca.png'
 
-TOKEN = '1676775496:AAEZrs1rSKYQLPQBv7vjhuDWQpsC_VFDex8'
+TOKEN = config.token
 
 knownUsers = []  # todo: save these in a file,
 userStep = {}  # so they won't reset every time the bot restarts
