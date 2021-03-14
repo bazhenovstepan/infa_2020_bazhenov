@@ -3,6 +3,7 @@ import urllib
 from io import BytesIO
 import config
 import telebot
+import config
 from telebot import types
 
 url1 = 'https://upload.wikimedia.org/wikipedia/en/d/d4/Mickey_Mouse.png'
