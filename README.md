@@ -3,7 +3,7 @@
 Hello 👋, my name is Stepan Bazhenov. I am a beginner Python programmer from Russia.
 - 🔭 Here, in this repository, you can find some of my pet-projects using this programming language
 - 🏛️ Currently I am studying Applied Informatics at Financial University under the Government of the Russian Federation
-- 🌱 I like Backend Development and Data Analysis and would like to develop myself in this fields
+- 🌱 I like Fullstack Development and would like to develop myself in this field
 
 ## My Skills
 
